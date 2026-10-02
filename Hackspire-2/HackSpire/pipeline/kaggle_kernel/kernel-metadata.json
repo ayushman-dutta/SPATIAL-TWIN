@@ -1,0 +1,11 @@
+{
+  "id": "ayushmoandutta/spatial-twin-3dgs-cloud-worker",
+  "title": "Spatial Twin 3DGS Cloud Worker",
+  "code_file": "train_splat.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": []
+}

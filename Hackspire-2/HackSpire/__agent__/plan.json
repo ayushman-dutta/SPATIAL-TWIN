@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Review Phase C scope and existing runner contracts",
+      "status": "done"
+    },
+    {
+      "title": "Harden SfM inputs, workspace isolation, failure gates, and artifacts",
+      "status": "done"
+    },
+    {
+      "title": "Expand regression tests and run the full Python suite",
+      "status": "done"
+    },
+    {
+      "title": "Record actual reconstruction results and remaining Phase C blockers",
+      "status": "done"
+    }
+  ],
+  "updated_at": "2026-10-02T19:52:52.759Z",
+  "session_id": "01a0fd52-2cef-776e-bd45-5b84b8d2ff08"
+}
